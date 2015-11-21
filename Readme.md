@@ -1,7 +1,9 @@
 
 # rauchg
 
-```
+![](https://cldup.com/3mtpNb4kSS.gif)
+
+```bash
 $ npm install rauchg
 ```
 
@@ -12,8 +14,6 @@ console.log(require('rauchg'));
 ```
 
 To get my contact information.
-
-![](https://cldup.com/41Lty6HukE.gif)
 
 ## Credits
 
