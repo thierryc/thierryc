@@ -1,7 +1,7 @@
 
 # rauchg
 
-![](https://cldup.com/3mtpNb4kSS.gif)
+![](https://cldup.com/tBDGZcr8jt.gif)
 
 ```bash
 $ npm install rauchg
