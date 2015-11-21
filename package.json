@@ -1,15 +1,16 @@
 {
-  "name": "johnkpaul",
-  "version": "1.0.0",
-  "description": "John K. Paul, the person",
+  "name": "rauchg",
+  "version": "3.0.0",
+  "description": "Guillermo Rauch",
   "main": "index.js",
   "scripts": {
-    "postinstall": "cat info.json"
+    "postinstall": "cat index.json"
   },
   "keywords": [
     "person",
     "contact"
   ],
-  "author": "John K. Paul",
+  "main": "./index.json",
+  "author": "Guillermo Rauch",
   "license": "ISC"
 }
