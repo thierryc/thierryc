@@ -1,9 +1,7 @@
 
 # thierryc
 
-rauchg exemple : 
-
-
+![](https://cldup.com/B-ceGaoMKA.gif)
 
 ##soon
 
