@@ -3,7 +3,7 @@
 
 rauchg exemple : 
 
-![](https://cldup.com/tBDGZcr8jt.gif)
+
 
 ##soon
 
