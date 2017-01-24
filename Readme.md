@@ -1,21 +1,27 @@
 
-# rauchg
+# thierryc
+
+rauchg exemple : 
 
 ![](https://cldup.com/tBDGZcr8jt.gif)
 
+##soon
+
 ```bash
-$ npm install rauchg
+$ npm install thierryc
 ```
 
 and
 
 ```js
-console.log(require('rauchg'));
+console.log(require('thierryc'));
 ```
 
 To get my contact information.
 
 ## Credits
+
+Thanks to Guillermo Rauch for the repo. 
 
 Thanks to John K Paul for the idea, and this
 [tweet](https://twitter.com/RedWolves/status/667848798484324352) for 
