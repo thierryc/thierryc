@@ -1,7 +1,7 @@
 {
-  "name": "rauchg",
-  "version": "3.0.0",
-  "description": "Guillermo Rauch",
+  "name": "thierryc",
+  "version": "1.0.0",
+  "description": "Thierry Charbonnel",
   "main": "index.js",
   "scripts": {
     "postinstall": "cat index.json"
@@ -11,6 +11,6 @@
     "contact"
   ],
   "main": "./index.json",
-  "author": "Guillermo Rauch",
+  "author": "Thierry Charbonnel",
   "license": "ISC"
 }
